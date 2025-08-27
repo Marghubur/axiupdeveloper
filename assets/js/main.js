@@ -236,7 +236,7 @@
                                     'class': 'flat-alert ' + cls,
                                     'text' : result
                                 }).append(
-                                    $('<a class="close" href="#"><i class="fa fa-close"></i></a>')
+                                    $('<a class="close" href="javascript:void(0)"><i class="fa fa-close"></i></a>')
                                 )
                             );
 
